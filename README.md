@@ -7,7 +7,7 @@ Presentations of Ben Wei (a.k.a. "ben6"). Welcome to send speech invitations via
 # Schedule 2013
 
 * Aug 03 / COSCUP: [Real practice of Networking design on specialized for ARM Cortex-M](http://www.slideshare.net/benuxwei/stm32-net-realpractice)
-* Nov 18 / 成大資工: [While software engineer meets 3d printer/當軟體工程師遇上3D印表機的那些事？](http://www.slideshare.net/benuxwei/while-software-engineer-meets-3d-printer)
+* Nov 18 / 成大資工: [While software engineer meets 3D printer/當軟體工程師遇上3D印表機的那些事？](http://www.slideshare.net/benuxwei/while-software-engineer-meets-3d-printer)
 
 # Schedule 2012
 
