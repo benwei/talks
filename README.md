@@ -1,4 +1,4 @@
-Presentations of Ben Wei (a.k.a. "ben6"). Welcome to send speech invitations via email: <ben@staros.mobi>
+Presentations of Ben Wei (a.k.a. "ben6"). Welcome to send speech invitations via email: <ben@juluos.org>
 
 # Schedule 2014
 
